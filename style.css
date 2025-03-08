@@ -1,0 +1,13 @@
+h3 {
+    padding: 15px;
+    background-color: black;
+    color: yellow;
+}
+
+p {
+    padding: 50px;
+    background-color: grey;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
